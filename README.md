@@ -16,3 +16,6 @@ The "Text Summarizer Using NLTK" project is a simple yet effective natural langu
 OUTPUT:
 
 
+![Image](https://github.com/user-attachments/assets/b2e52a64-5606-42a5-ad43-7c2014e7c9f4)
+
+
